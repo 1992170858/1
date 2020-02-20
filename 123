@@ -1,6 +1,8 @@
 污染域名需挂代理访问
-www.sssrr.xyz 污染
-www.fyvpn.xyz 污染
-www.jlyun.xyz 污染
-www.jlVPN.xyz 污染
-www.liVPN.xyz 正常
+www.ljVPN.xyz 正常
+www.vpn-1.xyz 备用，如果第一个不能访问将启用
+www.vpn-2.xyz 备用，如果第一个不能访问将启用
+www.vpn-3.xyz 备用，如果第一个不能访问将启用
+www.vpn-4.xyz 备用，如果第一个不能访问将启用
+www.vpn-5.xyz 备用，如果第一个不能访问将启用
+
